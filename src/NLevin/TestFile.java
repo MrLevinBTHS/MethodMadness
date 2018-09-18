@@ -6,6 +6,6 @@ public class TestFile {
 
     public static void main(String[] args)
     {
-        println("I love a cup of Java in the morning.");
+        println("I need a cup of Java in the morning.");
     }
 }
