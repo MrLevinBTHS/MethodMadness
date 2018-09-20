@@ -2,6 +2,11 @@ package NLevin;
 
 public class NLevinLib {
 
+    /**
+     * Simplifies printing strings.
+     *
+     * @param str
+     */
     public static void println(String str)
     {
         System.out.println(str);
