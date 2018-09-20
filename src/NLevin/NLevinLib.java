@@ -15,10 +15,9 @@ public class NLevinLib {
      * @param num2 the second number to extract the tens digit from
      * @return     the sum of the tens digits added together
      */
-    public int sumTensDigit(int num1, int num2)
+    public static int sumTensDigit(int num1, int num2)
     {
-        //to be implemented
-        return 0;
+        return(num1/10)%10 + (num2/10)%10;
     }
 
 }
